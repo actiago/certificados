@@ -10,7 +10,7 @@ ID | Nome
 01 | [Criando uma requisicão (.csr)](#criando-uma-requisicão)
 02 | [Validando os certificados](#validando-os-certificados)
 03 | [Declarando as variáveis](#declarando-as-variáveis)
-04 | [Criando certificados criptografados a partir da chave, cadeia e folha](#criando-certificados-criptografados-a-partir da-chave-cadeia-e-folha)
+04 | [Criando certificados criptografados a partir da chave, cadeia e folha](#criando-certificados-criptografados-a-partir-da-chave-cadeia-e-folha)
 
 ## Requisitos
 
