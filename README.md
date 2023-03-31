@@ -8,9 +8,9 @@ ID | Nome
 --- | ---
 00 | [Requisitos](#Requisitos)
 01 | [Criando uma requisicão (.csr)](#criando-uma-requisicão)
-02 | [Validando os certificados](#Validando os certificados)
-03 | [Declarando as variáveis](#Declarando as variáveis)
-04 | [Criando certificados criptografados a partir da chave, cadeia e folha](#Criando certificados criptografados a partir da chave, cadeia e folha)
+02 | [Validando os certificados](#validando-os-certificados)
+03 | [Declarando as variáveis](#declarando-as-variáveis)
+04 | [Criando certificados criptografados a partir da chave, cadeia e folha](#criando-certificados-criptografados-a-partir da-chave-cadeia-e-folha)
 
 ## Requisitos
 
