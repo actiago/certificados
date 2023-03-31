@@ -7,7 +7,7 @@ Processo para gerar certificados privados partindo do zero.
 ID | Nome
 --- | ---
 00 | [Requisitos](#Requisitos)
-01 | [Criando uma requisicão (.csr](#Criando uma requisicão (.csr))
+01 | [Criando uma requisicão (.csr](#Criando)
 02 | [Validando os certificados](#Validando os certificados)
 03 | [Declarando as variáveis](#Declarando as variáveis)
 04 | [Criando certificados criptografados a partir da chave, cadeia e folha](#Criando certificados criptografados a partir da chave, cadeia e folha)
