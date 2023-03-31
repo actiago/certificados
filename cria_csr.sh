@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Preencher o nome do servidor
-SERVIDOR=meleca_srv
+SERVIDOR=
 # Prencher o SITE = URL = CN
-SITE=tiag0.com.br
+SITE=
 NUM=001
 if [[ "${SERVIDOR}" == "" || "${SITE}" == "" ]]; then
     echo
