@@ -7,7 +7,7 @@ Processo para gerar certificados privados partindo do zero.
 ID | Nome
 --- | ---
 00 | [Requisitos](#Requisitos)
-01 | [Criando uma requisicão (.csr](#Criando)
+01 | [Criando uma requisicão (.csr)](#criando-uma-requisicão)
 02 | [Validando os certificados](#Validando os certificados)
 03 | [Declarando as variáveis](#Declarando as variáveis)
 04 | [Criando certificados criptografados a partir da chave, cadeia e folha](#Criando certificados criptografados a partir da chave, cadeia e folha)
@@ -29,7 +29,7 @@ OpenJDK Runtime Environment (build 11.0.18+10-post-Ubuntu-0ubuntu122.04)
 OpenJDK 64-Bit Server VM (build 11.0.18+10-post-Ubuntu-0ubuntu122.04, mixed mode, sharing)
 ```
 
-## Criando uma requisicão (.csr)
+## Criando uma requisicão
 
 Para criar uma requisicão, use o arquivo `cria_csr.sh`, contido neste repositório
 
